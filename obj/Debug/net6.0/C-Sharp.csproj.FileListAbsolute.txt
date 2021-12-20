@@ -1,0 +1,15 @@
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\C-Sharp.exe
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\C-Sharp.deps.json
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\C-Sharp.runtimeconfig.json
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\C-Sharp.dll
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\ref\C-Sharp.dll
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\bin\Debug\net6.0\C-Sharp.pdb
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.AssemblyReference.cache
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfo.cs
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.dll
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\ref\C-Sharp.dll
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.pdb
+C:\Users\maycon.azevedo\Documents\GitHUB\C-Sharp\obj\Debug\net6.0\C-Sharp.genruntimeconfig.cache
