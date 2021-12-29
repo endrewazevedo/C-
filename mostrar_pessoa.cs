@@ -35,6 +35,19 @@ class program{
                     break;
 
                 case "3":
+                    decimal notaTotal = 0;
+                    int alunosTotais = 0;
+
+                    for(int i = 0; i < Alunos.Length; i++){
+                        if(!string.IsNullOrEmpty(Alunos[i].Nome)){
+                            notaTotal += Alunos[i].Nota;
+                            alunosTotais++;
+                    }
+                        
+                    }
+
+                    var mediaGeral = notaTotal/alunosTotais;
+                    Console.WriteLine($"Media Geral: {mediaGeral}");
                     break;
 
                 default:
